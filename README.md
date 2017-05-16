@@ -2,10 +2,9 @@
 
 Blank nodejs app with [Koa](http://koajs.com/) framework. Depends on node v7.8.0
 
-## config
-configuration 
+`config` configuration 
 
-## middlewares (handlers)
+`handlers` middlewares:
 - **01-favicon** [koa-favicon](https://github.com/koajs/favicon) 
 - **02-static** [koa-static](https://github.com/koajs/static) 
 - **03-logger** [koa-logger](https://github.com/koajs/logger) 
@@ -15,11 +14,9 @@ configuration
 - **07-bodyParser** [koa-bodyparser](https://github.com/koajs/bodyparser)
 - **08-multipartParser** [co-busboy](https://www.npmjs.com/package/co-busboy)
 
-## templates 
-it's for templates, dawg
+`templates` it's for templates, dawg
 
-## public
-this for ur css, images, html's etc
+`public` this for ur css, images, html's etc
 
 ## installation
 1. U need to install node.js
